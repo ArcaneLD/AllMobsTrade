@@ -1,0 +1,10 @@
+name: AllMobsTrade
+main: fr.arcane.allmobstrade.AllMobsTrade
+version: '1.0'
+author: Arcane
+description : Alextogy video plugin
+api-version: '1.13'
+commands:
+  credit:
+    description:
+    permission:
